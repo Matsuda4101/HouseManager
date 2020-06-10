@@ -11,9 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GraphScene.unity
     guid: 7645d66632dd1784d821e178d46a8b0e
-  - enabled: 1
-    path: Assets/Scenes/SelectScene.unity
-    guid: 070a6ec72b888754a901f5b8826efa08
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: "Assets/Scenes/\u91D1\u984D\u5165\u529B\u753B\u9762/\u96FB\u6C17/ElectricalScene.unity"
     guid: 650d99b7380271544aaa4ccdfdf14330
