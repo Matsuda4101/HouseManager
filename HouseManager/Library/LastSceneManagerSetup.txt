@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/GraphScene.unity
+- path: "Assets/Scenes/\u91D1\u984D\u5165\u529B\u753B\u9762/\u30AC\u30B9/GasScene.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0

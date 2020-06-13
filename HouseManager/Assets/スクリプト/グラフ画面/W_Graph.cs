@@ -20,7 +20,7 @@ public class W_Graph : MonoBehaviour
         for (int i = 0; i < 12; i++)
         {
             number = PlayerPrefs.GetInt("W_" + month.ToString());
-            W_Line.SetPosition(i, new Vector3(x, number / 3000 - 3, 0));
+            W_Line.SetPosition(i, new Vector3(x, number / 4000 - 3, 0));
 
             W_Line.startWidth = 0.1f;
             W_Line.endWidth = 0.1f;

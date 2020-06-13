@@ -32,7 +32,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.ContentSizeFitter
-    - UnityEngine.UI.Dropdown
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.InputField
@@ -40,7 +39,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Text
-    - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
     Assets/Scenes/GraphScene.unity:
@@ -197,11 +195,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11128}
     - Class: 114
-      Script: {instanceID: 11492}
-    - Class: 114
       Script: {instanceID: 11502}
-    - Class: 114
-      Script: {instanceID: 11518}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -311,11 +305,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11164}
     - Class: 114
-      Script: {instanceID: 11492}
-    - Class: 114
       Script: {instanceID: 11502}
-    - Class: 114
-      Script: {instanceID: 11518}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -425,11 +415,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11168}
     - Class: 114
-      Script: {instanceID: 11492}
-    - Class: 114
       Script: {instanceID: 11502}
-    - Class: 114
-      Script: {instanceID: 11518}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
